@@ -1,9 +1,11 @@
-# 🔗 LinkHoDL
 
 <div align="center">
   
-![LinkHoDL Logo](assets/images/app_icon.jpg)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c89bab1-a14b-4b8b-9dee-94e2005d2cff" alt="Logo" width="200" height="200" />
+</p>
 
+### LinkHoDL
 *Your Ultimate Link Management Solution*
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -16,10 +18,30 @@
 
 LinkHoDL is a modern, elegant Flutter application designed to help you save, organize, and manage all your important links in one place. With its intuitive interface and powerful features, LinkHoDL ensures you never lose track of your valuable web resources again.
 
+
 <div align="center">
-  <img src="path/to/screenshot1.png" width="200" />
-  <img src="path/to/screenshot2.png" width="200" />
-  <img src="path/to/screenshot3.png" width="200" />
+  
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfdacd11-30cb-4867-a6e1-3012ef25a0a7" alt="Screenshot 1" width="200" height="400" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/03317ce7-a4bc-446b-a9f7-d4fa57c38403" alt="Screenshot 2" width="200" height="400" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e7e4add7-28b4-499b-8b6b-f1de7704495a" alt="Screenshot 3" width="200" height="400" /> 
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1346396b-d992-4098-9adb-40c9bb401f17" alt="Screenshot 4" width="200" height="400" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ce3310a1-983d-4ad7-90c4-9af3001504fd" alt="Screenshot 5" width="200" height="400" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0e6240b5-a13c-469c-822b-dae317ac0ad2" alt="Screenshot 6" width="200" height="400" /> 
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29f3041d-da49-42c6-8342-5547e8481bfe" alt="Screenshot 7" width="200" height="400" />
+</p>
+
+
+
+
 </div>
 
 ## ✨ Features
@@ -155,5 +177,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📱 **LinkHoDL** - Keep your links organized, accessible, and secure.
 
 ⭐ Star us on GitHub — it helps!
+#
+# CREATED BY WALEEDSID
 
 </div>
